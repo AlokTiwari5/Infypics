@@ -17,5 +17,16 @@ Want royalty free stock pictures for your next project or just love browsing loo
 - Auth0
 - Express.js
 - MongoDB
+  
 
+## yarn install
+use the above command on the client side to install dependencies
 
+# npm install 
+use the above command on the server side to install dependencies
+
+# yarn start
+use the command on the client side to run client
+
+# npm start
+use the command on the server side to run server
